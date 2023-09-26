@@ -1,5 +1,6 @@
 # Домашнее задание к занятию "6. Работа с файлами, DnD"
 https://finchik.github.io/trello/
+[![Build status](https://ci.appveyor.com/api/projects/status/7o80nq9161a7dfcx/branch/main?svg=true)] (https://ci.appveyor.com/project/finchik/trello)
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ нужно использовать yarn (поэтому файла `package-lock.json` в репозитории быть не должно)
